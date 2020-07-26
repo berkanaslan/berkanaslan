@@ -1,7 +1,6 @@
-###Hi.
-I'm Berkan Aslan.  I'm a senior student at Akdeniz University, Management Information Systems department. I've been trying write code since I was 11 years old.
+**Hi.** I'm Berkan Aslan.  I'm a senior student at **Akdeniz University, Management Information Systems department.** I've been trying write code since I was 11 years old.
 
-In the past, I've worked on HTML, CSS, PHP, C, C#. Besides of I have been involved in machine learning projects  Python several times. Right now, I'm interested in Flutter full time.  I like to developing mobile applications, organize and attend conferences in the field of business informatics.
+In the past, I've worked on **HTML, CSS, PHP, C, C#.** Besides of I have been involved in **machine learning** projects several times. Right now, I'm interested in **Flutter** full time.  I like to developing **mobile applications**, **organize and attend conferences** in the field of business informatics.
 
 On the other hand, I do freelance work on [netpiksel.com.](http://netpiksel.com. "netpiksel.com.")
 
