@@ -2,7 +2,7 @@
 
 In the past, I've worked on **HTML, CSS, PHP, C, C#.** Besides of I have been involved in **machine learning** projects several times. Right now, I'm interested in **Flutter** full time.  I like to developing **mobile applications**, **organize and attend conferences** in the field of business informatics.
 
-On the other hand, I do freelance work on [netpiksel.com.](http://netpiksel.com"netpiksel.com.")
+On the other hand, I do freelance work on [netpiksel.com.](http://netpiksel.com/ "netpiksel.com.")
 
 blog: [berkanaslan.com](https://berkanaslan.com/ "berkanaslan.com")
 
