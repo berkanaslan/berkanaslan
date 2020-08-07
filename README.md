@@ -13,7 +13,3 @@ hello@berkanaslan.com or aslnberkan@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkanaslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Berkan's github stats](https://github-readme-stats.vercel.app/api?username=berkanaslan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![see ya.](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif "see ya.")
-
