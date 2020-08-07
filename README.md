@@ -10,5 +10,7 @@ hello@berkanaslan.com or aslnberkan@gmail.com
 
 [twitter](https://twitter.com/aslaanberkan "twitter") ۰ [facebook](https://www.facebook.com/aslberkan "facebook") ۰ [instagram](https://www.instagram.com/aslnberkan/ "instagram") ۰ [linkedin](https://www.linkedin.com/in/berkan-aslan-aaa163165/ "linkedin")
 
+[![Berkan's github stats](https://github-readme-stats.vercel.app/api?username=berkanaslan)](https://github.com/anuraghazra/github-readme-stats)
+
 ![see ya.](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif "see ya.")
 
