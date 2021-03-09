@@ -1,1 +1,1 @@
-[<img src="https://readme-spotify-status-pearl.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/v5v2cmem4ubh6z23yibygu9vn?si=pZSbZRPPSFqRE3rAdxyLRA)
+
