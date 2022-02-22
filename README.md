@@ -1,5 +1,3 @@
-<p>Have you tried turning it off and on again?</p>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkanaslan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aslnberkan@gmail.com)
 
